@@ -12,23 +12,23 @@
     "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
-        "TG_BOT_TOKEN": {
+        "6419707207:AAEZeBq1sUZ36WZ9T8rd2W0OYxhOqjRZl6w": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
-        "API_HASH": {
+        "171db4a0a2e04513941d94722bf2b871": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "APP_ID": {
+        "24321698": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://repl.it/@SpEcHiDe/GenerateStringSession",
+        "https://repl.it/@Siddharthahirw1/GenerateStringSession": {
+            "description": "A pyrogram user session string. Generate from https://repl.it/@Siddharthahirw1/GenerateStringSession",
             "value": ""
         },
-        "MAINCHANNEL_ID": {
+        "-1001915333529": {
             "description": "ID of Channel from which the bot should search files",
             "value": ""
         }
